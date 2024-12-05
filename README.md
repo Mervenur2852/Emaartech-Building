@@ -2,14 +2,14 @@
 
 An construction website has been designed in this repository using HTML, CSS, and Bootstrap.
 
-#Features
+# Features
 
 -Responsive design
 -Dynamic navbar
 -Carousel structure
 -Accordion structure
 
-#Technologies Used
+# Technologies Used
 
 -Html
 -Css
